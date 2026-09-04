@@ -47,3 +47,4 @@ I'll be publishing new repos as I explore parts of Unreal Engine and its systems
 **In progress**:
 - [SimVault](https://github.com/catalincriste/SimVault)
 - [Marble Run](https://github.com/catalincriste/UE_MarbleRun)
+- [Mars Marine](https://github.com/catalincriste/UE_MarsMarine)
