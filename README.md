@@ -9,24 +9,30 @@ I've been working as a Software Developer for the past 9 years, mostly working w
 
 Currently on a journey on learning Game Development with Unreal Engine. It's something I've wanted to get into for a while, so I'm finally giving it a go.
 
-Eventually making and release a game of my own. 🎮
+🚧 Projects
+**In progress**:
+- Sims2Overlay - WIP First Release soon
+- [SimVault](https://github.com/catalincriste/SimVault)
+- [Marble Run](https://github.com/catalincriste/UE_MarbleRun)
+- [Mars Marine](https://github.com/catalincriste/UE_MarsMarine)
 
-More details Below 👇
+More details Below 
 
-🧑‍💻 **What I've Worked With**
+**What I've Worked With**
 - Angular / TypeScript
-- C# / .NET / ASP.NET Zero / Entity Framework 
+- C# / .NET / ASP.NET Zero / Entity Framework
+- C++
 - Microsoft SQL Server / MySQL
 - Redis
 - Docker
 - PHP / Drupal
-- Python 🐍
+- Python 
 - React
 - Java
 - Node.JS
 - And others...
 
-🎮 **Game Development**
+**Game Development**
 
 Recently started my journey into Game Development with Unreal Engine.
 
@@ -43,8 +49,3 @@ My long-term goal is to build and release my own game.
 I'll be publishing new repos as I explore parts of Unreal Engine and its systems
 
 
-🚧 Projects
-**In progress**:
-- [SimVault](https://github.com/catalincriste/SimVault)
-- [Marble Run](https://github.com/catalincriste/UE_MarbleRun)
-- [Mars Marine](https://github.com/catalincriste/UE_MarsMarine)
